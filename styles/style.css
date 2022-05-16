@@ -39,8 +39,6 @@
 }
 
 .header__title__text {
-  font-family: 'Helvetica Neue', 'Arial', sans-serif;
-  font-size: 102px;
   font: 102px/96px 'Helvetica Neue', 'Arial', sans-serif;
   font-weight: bold;
   margin: 0;
@@ -54,16 +52,12 @@
 }
 
 .header__subtitle__text {
-  font-family: 'Helvetica Neue', 'Arial', sans-serif;
-  font-size: 18px;
   font: 18px/25px 'Helvetica Neue', 'Arial', sans-serif;
   font-weight: normal;
   margin: 0;
 }
 
 .header__link {
-  font-family: 'Helvetica Neue', 'Arial', sans-serif;
-  font-size: 18px;
   font: 18px/25px 'Helvetica Neue', 'Arial', sans-serif;
   font-weight: normal;
   margin: 0;
@@ -78,7 +72,7 @@
   background-image: url('../images/header-image.png');
   height: 608px;
   width: 765px;
-  background-size: cover
+  background-size: cover;
 }
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
@@ -97,9 +91,7 @@
 
 .description {
   display: flex;
-  padding: 100px 0;
   justify-content: center;
-  padding: 0;
   height: 555px;
 }
 
@@ -151,7 +143,6 @@
   text-align: center;
   font-weight: bold;
   font: 60px/1.15 'Helvetica Neue', 'Arial', sans-serif;
-  font-weight: bold;
 }
 
 .section-subtitle {
@@ -160,7 +151,6 @@
   text-align: center;
   font-weight: normal;
   font: 24px/34px 'Helvetica Neue', 'Arial', sans-serif;
-  font-weight: normal;
 }
 
 .table {
