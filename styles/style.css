@@ -236,6 +236,7 @@
 .table__cell-text_theme_dark {
   color: white;
   z-index: 2;
+  width: 200px;
 }
 
 .kaufman__triangle {
