@@ -148,20 +148,16 @@
 }
 
 .table__cell-heading {
-  margin: 0 0 20px;
+  margin: 0;
   width: 250px;
   font: 24px/1.15 'Helvetica Neue', 'Arial', sans-serif;
   font-weight: bold;
 }
 
-.table__cell__text {
+.table__cell-text {
   width: 250px;
   font: 18px/1.2 'Helvetica Neue', 'Arial', sans-serif;
   font-weight: normal;
-  margin: 0;
-}
-
-.table__cell__text_margin-top_20px {
   margin: 20px 0 0;
 }
 
@@ -237,7 +233,7 @@
   z-index: 2;
 }
 
-.table__cell__text_theme_dark {
+.table__cell-text_theme_dark {
   color: white;
   z-index: 2;
 }
