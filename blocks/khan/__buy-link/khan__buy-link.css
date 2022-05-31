@@ -1,0 +1,11 @@
+.khan__buy-link {
+  font: 30px/42px 'Helvetica Neue', 'Arial', sans-serif;
+  margin: 0 0 0 48px;
+  color: #2f80ed;
+  text-decoration: none;
+  transition: opacity 1s linear;
+}
+
+.khan__buy-link:hover {
+  opacity: 0.5;
+}

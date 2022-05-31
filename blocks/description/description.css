@@ -1,0 +1,6 @@
+.description {
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+  padding: 70px 0;
+}

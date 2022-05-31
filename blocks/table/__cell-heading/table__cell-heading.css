@@ -1,0 +1,6 @@
+.table__cell-heading {
+  margin: 0;
+  width: 250px;
+  font: 24px/1.15 'Helvetica Neue', 'Arial', sans-serif;
+  font-weight: bold;
+}

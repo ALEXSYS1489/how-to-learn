@@ -1,0 +1,15 @@
+.feynman__link {
+  font: 36px/51px 'Helvetica Neue', 'Arial', sans-serif;
+  font-weight: normal;
+  position: absolute;
+  top: 50%;
+  right: 48px;
+  color: #2f80ed;
+  text-decoration: none;
+  transition: opacity 1s linear;
+}
+
+.feynman__link:hover {
+  opacity: 0.5;
+}
+

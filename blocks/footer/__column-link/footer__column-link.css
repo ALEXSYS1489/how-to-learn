@@ -1,0 +1,12 @@
+.footer__column-link {
+  font: 18px/30px 'Helvetica Neue', 'Arial', sans-serif;
+  font-weight: normal;
+  color: white;
+  text-decoration: none;
+  transition: opacity 1s linear;
+}
+
+.footer__column-link:hover {
+  opacity: 0.5;
+}
+
